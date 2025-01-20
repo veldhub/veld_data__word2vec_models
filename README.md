@@ -1,4 +1,4 @@
-# veld_data__word2vec_models
+# ![veld chain](https://raw.githubusercontent.com/veldhub/.github/refs/heads/main/images/symbol_V_letter.png) veld_data__word2vec_models
 
 This repo contains data velds encapsulating static wordembeddings models trained on AMC at 
 https://github.com/veldhub/veld_chain__train_infer_wordembeddings_multiple_architectures__amc/
